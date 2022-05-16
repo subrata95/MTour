@@ -30,7 +30,8 @@
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
     <version>7.4.0</version>
-    <scope>test</scope>
+    <!--<scope>test</scope>-->
+    <scope>compile</scope>
 </dependency>
 <!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core -->
 <!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-api -->
