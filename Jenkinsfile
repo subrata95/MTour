@@ -5,6 +5,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Building..'
+		git 'https://github.com/subrata75/MTour'    
             }
         }
         stage('Test') {
