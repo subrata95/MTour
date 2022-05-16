@@ -11,16 +11,13 @@ pipeline {
         stage('Test') {
             steps {
                 echo 'Testing..'
-            }
-        }
-        stage('Deploy') {
-            steps {
-                echo 'Deploying....'
+		git 'https://github.com/subrata75/MTour'      
             }
         }
         stage('Release') {
             steps {
                 echo 'Releasing....'
+		git 'https://github.com/subrata75/MTour'      
             }
         }
 	}
