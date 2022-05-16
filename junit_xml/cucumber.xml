@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0">
+<testcase classname="Mercury Tour Registraion page feature" name="Registration Page Test Scenario" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given user is on home page..................................................undefined
+When user taps on register link.............................................undefined
+Then user lands on registration page........................................undefined
+And user enters all the credentials in the respective fields................undefined
+When user clicks on submit button...........................................undefined
+Then user lands on registration successful page.............................undefined
+]]></failure>
+</testcase>
+</testsuite>

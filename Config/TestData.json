@@ -1,0 +1,18 @@
+{
+"UserRegistration":[
+{
+  "Firstname": "Sumant",
+  "Lastname": "Dey",
+  "Phonenumber": "1234567898",
+  "Email": "Tester55@yopmail.com",
+  "Address": "Nutan Para",
+  "City": "Kolkata",
+  "State": "West Bengal",
+  "Postalcode": "700084",
+  "Country": "Argentina",
+  "Username": "Tester55",
+  "Password": "Test@1234",
+  "Confirmpassword": "Test@1234"
+  
+  }]
+}
