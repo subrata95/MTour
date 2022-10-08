@@ -14,7 +14,7 @@ pipeline {
 		git 'https://github.com/subrata75/MTour'      
             }
         }
-        stage('Release') {
+        stage('Deploy') {
             steps {
                 echo 'Releasing....'
 		git 'https://github.com/subrata75/MTour'      
